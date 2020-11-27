@@ -4,7 +4,7 @@
 
 [live Site](https://blueloancalculator.netlify.app/)
 
-![BlueLoanCalculator](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fmortgage&psig=AOvVaw0hAJUd6lMEcih8swgwp1bW&ust=1606603882396000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODOgpPoo-0CFQAAAAAdAAAAABAI)
+![BlueLoanCalculator](https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTd8fGZpbmFuY2V8ZW58MHx8MHw%3D&auto=format&fit=crop&w=500&q=60)
 
 ## Intro
 Blue Loan Calculator is simple loan calculator application, with basic loan computation skills which will help users easily calculate their loan and comprehend them.
